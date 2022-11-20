@@ -1,4 +1,4 @@
-# Advent Of Vue 2022
+# Advent Of Vue 2022 - Challenge Finished
 
 ## If you didn't get here from an email, read this section! Skip it otherwise.
 
